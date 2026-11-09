@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PE02-RegistreUsuari-OriolMarch</string>
+    <string name="nom">Nom:</string>
+    <string name="cognoms">Cognoms:</string>
+    <string name="edat">Edat:</string>
+    <string name="matriculat">Matriculat:</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="validar">Validar</string>
+    <string name="sortir">Sortir</string>
+    <string name="accepta_politica">Accepta la política de privacitat</string>
+    <string name="politica_pendent">Pendent d\'acceptar la política de privacitat</string>
+    <string name="politica_acceptada">Accepta la política de privacitat</string>
+    <string name="politica_no_acceptada">No accepta la política de privacitat</string>
+    <string name="error_camps">Omple tots els camps</string>
+</resources>
